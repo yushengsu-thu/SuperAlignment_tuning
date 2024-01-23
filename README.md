@@ -1,4 +1,4 @@
-# SuperAlignment_tuning-
+# SuperAlignment_tuning
 All Tuning works in SuperAlignment
 
 - Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision
